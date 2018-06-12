@@ -23,7 +23,6 @@ public class DetailActivity extends AppCompatActivity {
     private TextView mSandwichIngredients_tv;
     private TextView mSandwichDescription_tv;
     private ImageView mSandwichImage_iv;
-    private TextView mAKALabel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
